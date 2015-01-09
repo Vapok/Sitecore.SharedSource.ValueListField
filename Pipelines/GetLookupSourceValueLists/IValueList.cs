@@ -1,6 +1,6 @@
 ﻿namespace Sitecore.SharedSource.ValueListField.Pipelines.GetLookupSourceValueLists
 {
-    internal interface IValueList
+    public interface IValueList
     {
         string[] ValueListQuery();
     }
