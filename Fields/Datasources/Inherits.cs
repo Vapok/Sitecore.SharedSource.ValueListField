@@ -9,7 +9,7 @@ namespace Sitecore.SharedSource.ValueListField.Fields.Datasources
     {
         public string[] ValueListQuery()
         {
-            return SiteManager.Provider.GetSites().Select(site => site.Name).ToArray();
+            return SiteManager.GetSites().Select(site => site.Name).ToArray();
         }
     }
 }
