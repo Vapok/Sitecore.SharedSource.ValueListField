@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SitecoreHacker.Foundation.ValueListField")]
-[assembly: AssemblyDescription("Sitecore Custom Field for Value Lists")]
+[assembly: AssemblyDescription("Sitecore Custom Field for Value Lists (Sitecore 8.2 rev. 160729)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SitecoreHacker")]
 [assembly: AssemblyProduct("SitecoreHacker.Foundation.ValueListField")]
