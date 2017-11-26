@@ -11,7 +11,7 @@
     <iconUrl>https://secure.gravatar.com/blavatar/1aef1f2dc35ffbf68598721c7c8966dc?s=114</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Supports Sitecore 8.2</releaseNotes>
+    <releaseNotes>Supports Sitecore 9.0</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>sitecore fields valuelistfield</tags>
   </metadata>
