@@ -10,7 +10,10 @@
     <projectUrl>https://github.com/Vapok/Sitecore.SharedSource.ValueListField</projectUrl>
     <iconUrl>https://secure.gravatar.com/blavatar/1aef1f2dc35ffbf68598721c7c8966dc?s=114</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>
+      Sitecore Custom Field for Value Lists
+      For Sitecore 8.2 Initial (rev. 160729)
+    </description>
     <releaseNotes>Supports Sitecore 8.2</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>sitecore fields valuelistfield</tags>

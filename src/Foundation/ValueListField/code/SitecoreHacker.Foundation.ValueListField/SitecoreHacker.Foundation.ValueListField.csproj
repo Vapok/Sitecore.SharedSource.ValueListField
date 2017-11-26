@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="LICENSE" />
     <Content Include="temp\Sitecore Hacker Value List Field-1.2.zip" />
   </ItemGroup>
   <ItemGroup>
