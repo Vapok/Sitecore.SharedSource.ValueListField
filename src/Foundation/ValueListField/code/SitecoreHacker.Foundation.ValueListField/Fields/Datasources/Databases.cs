@@ -2,6 +2,8 @@
 using Sitecore;
 using Sitecore.Configuration;
 using Sitecore.Data;
+using SitecoreHacker.Foundation.ValueListField.Abstraction;
+using SitecoreHacker.Foundation.ValueListField.Data;
 using SitecoreHacker.Foundation.ValueListField.Pipelines.GetLookupSourceValueLists;
 
 namespace SitecoreHacker.Foundation.ValueListField.Fields.Datasources
