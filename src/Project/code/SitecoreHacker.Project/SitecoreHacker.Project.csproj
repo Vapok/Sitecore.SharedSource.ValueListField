@@ -138,7 +138,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zDevOnly\ValueListField.Items.config" />
-    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\SXP82V.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
